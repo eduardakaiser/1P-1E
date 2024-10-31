@@ -8,3 +8,12 @@ h3{
 h2{
     color: rgb(230, 158, 158);
 }
+
+header {
+    background-color: rgb(160, 158, 158)(94, 89, 89);
+    color: white;
+}
+
+a{
+    color: white;
+}
